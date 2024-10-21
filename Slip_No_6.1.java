@@ -26,6 +26,7 @@ class demo
         }
         catch(Exception e)
         {
+          if(n==0)
            System.out.print("Number Is Zero..");
         }
     }

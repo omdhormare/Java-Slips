@@ -11,7 +11,7 @@ class Frequency
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter String : ");
         s1 = sc.nextLine();
-        s1 = s1.toLowerCase(); 
+        //s1 = s1.toLowerCase(); 
 
         for (ch = 'a'; ch <= 'z'; ch++) 
         {

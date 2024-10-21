@@ -36,7 +36,7 @@ class search
         }
       }
       if(cnt>0)
-        System.out.print("\nName Found..."+i);
+        System.out.print("\nName Found..."+cnt);
      else
         System.out.print("Name Not Fount...");
    }
